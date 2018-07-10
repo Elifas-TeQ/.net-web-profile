@@ -1,0 +1,3 @@
+*Construction - Core - Programming language*
+[CL1 (Qualified)]
+> [TODO] Declare namespaces, classes, interfaces, static and instance class members - AT:5,6,8
