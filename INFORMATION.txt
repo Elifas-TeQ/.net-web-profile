@@ -1,3 +1,12 @@
 *Construction - Core - Programming language*
 [CL1 (Qualified)]
 > [TODO] Declare namespaces, classes, interfaces, static and instance class members - AT:5,6,8
+
+
+*Engineering Management - Process Planning (SDLC)*
+[CL1 (Qualified)]
+> [TODO] Software development process - WIKI:Software_development_process
+> > [TODO] Software development activities - WIKI:Software_development_process
+> [TODO] Basics of SDLC models
+> > [TODO] Waterfall Concept - WIKI:Software_development_process
+> > [TODO] Agile software development concept - WIKI:Agile_software_development
